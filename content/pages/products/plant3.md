@@ -1,7 +1,6 @@
 ---
 layout: product
 id: '3'
-price: '150.00'
 title: 'Telefon mobil Xiaomi Redmi Note 9 Pro, Dual SIM'
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/redmi.jpg
