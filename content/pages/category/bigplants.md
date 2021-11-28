@@ -1,5 +1,5 @@
 ---
-title: Telefoane mobile
+title: Apple
 layout: category
 order: 1
 seo:
