@@ -7,7 +7,7 @@ description: >-
   volutpat massa dolor id purus.
 default_thumbnail_image: images/apple.webp
 default_original_image: images/plant5-lg.jpg
-featured: true
+featured: false
 order: 5
 category: content/pages/category/bigplants.md
 seo:
