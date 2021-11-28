@@ -34,6 +34,7 @@ seo:
     - name: 'twitter:image'
       value: images/plant3-lg.jpg
       relativeUrl: true
+price: '4.099'
 ---
 
 # Curabitur eu tempor
