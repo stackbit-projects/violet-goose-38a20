@@ -1,7 +1,6 @@
 ---
 layout: product
 id: '1'
-price: '49.40'
 title: 'Telefon mobil Apple Iphone 13, 128 GB, 5G, Pink'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
