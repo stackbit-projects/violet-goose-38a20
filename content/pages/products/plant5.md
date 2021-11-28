@@ -2,7 +2,6 @@
 layout: product
 id: '5'
 price: '220.00'
-title: 'Samsung Galaxy S20 FE (2021), Dual SIM'
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
   volutpat massa dolor id purus.
