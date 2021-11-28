@@ -36,6 +36,7 @@ seo:
     - name: 'twitter:image'
       value: images/plant5-lg.jpg
       relativeUrl: true
+title: 'Apple iPhone 13 Pro, 128GB, 5G, Sierra Blue'
 ---
 
 # Vestibulum eget
