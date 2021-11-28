@@ -1,5 +1,5 @@
 ---
-title: Cactuses
+title: Xiaomi
 layout: category
 order: 2
 seo:
