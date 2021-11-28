@@ -2,7 +2,7 @@
 layout: product
 id: '1'
 price: '49.40'
-title: Telefon mobil Apple Iphone 13
+title: 'Telefon mobil Apple Iphone 13, 128 GB,'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
