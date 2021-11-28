@@ -1,5 +1,4 @@
 ---
-title: samsung
 layout: category
 order: 1
 seo:
